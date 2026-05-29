@@ -1,0 +1,2 @@
+source /home/ericknar/github-classroom/upsrj-jlopez/RTOS-WOKWI/starvation-demo/build/bootloader/gdbinit/symbols
+source /home/ericknar/github-classroom/upsrj-jlopez/RTOS-WOKWI/starvation-demo/build/bootloader/gdbinit/connect

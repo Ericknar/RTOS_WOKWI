@@ -1,0 +1,2 @@
+source /home/ericknar/github-classroom/upsrj-jlopez/RTOS-WOKWI/src/hello-world/build/bootloader/gdbinit/symbols
+source /home/ericknar/github-classroom/upsrj-jlopez/RTOS-WOKWI/src/hello-world/build/bootloader/gdbinit/connect

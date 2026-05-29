@@ -1,0 +1,4 @@
+[wokwi]
+version = 1
+firmware = "../multitask-demo/build/multitask-demo.elf"
+elf = "../multitask-demo/build/multitask-demo.elf"
