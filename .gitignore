@@ -1,0 +1,17 @@
+# Build directories
+build/
+*/build/
+**/build/
+
+# ESP-IDF
+sdkconfig.old
+*.bin
+*.elf
+*.map
+
+# VS Code
+.vscode/ipch/
+
+# Python cache
+__pycache__/
+*.pyc

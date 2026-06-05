@@ -1,9 +1,0 @@
-Command: cmake -G Ninja -B /home/ericknar/github-classroom/upsrj-jlopez/RTOS-WOKWI/starvation-demo/build -DPYTHON_DEPS_CHECKED=1 -DPYTHON=/home/ericknar/.espressif/python_env/idf6.0_py3.14_env/bin/python -DESP_PLATFORM=1 -DCCACHE_ENABLE=False /home/ericknar/github-classroom/upsrj-jlopez/RTOS-WOKWI/starvation-demo
-Configuration Report               
- ───────────────────────────────── 
-   Parser Version: 1               
-   Verbosity: default              
-   Defaults policy: sdkconfig      
-   Status: Finished successfully   
-                                   
- ───────────────────────────────── 
